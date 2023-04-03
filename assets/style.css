@@ -2,16 +2,23 @@ body {
     background-color: lightblue;
 }
 header {
-    color: darkblue;
-}
-h1 {
-    text-align: left;
-    color: black;
+    
+   
 }
 h2 {
     text-align: right;
+    color: blue;
+}
+h1 {
+    color: blue;
 }
 
+   .card {
+    background-color: rgb(207, 232, 220);
+    border: 2px solid rgb(79, 185, 27);
+    padding: 1opx;
+    margin: 0 0 1em 0;
+  }
 
 
 footer {
